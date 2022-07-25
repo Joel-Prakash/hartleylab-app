@@ -1,0 +1,39 @@
+.header-container {
+  height: 100vh;
+  background-color: #4c6775;
+}
+.nav-bar-header {
+  padding: 1% 5% 1% 5%;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+}
+.website-logo {
+  height: 45px;
+  width: 250px;
+  margin-top: 10px;
+}
+.login-register-container {
+  width: 25vw;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.login-register-items {
+  color: #64748b;
+  font-size: 22px;
+  font-family: Roboto;
+  text-decoration: none;
+  cursor: pointer;
+}
+.logout-button {
+  color: #64748b;
+  font-size: 22px;
+  font-family: Roboto;
+  text-decoration: none;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}

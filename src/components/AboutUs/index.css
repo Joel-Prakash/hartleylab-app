@@ -1,0 +1,35 @@
+.aboutus-main-container {
+  height: 100vh;
+}
+.aboutus-container {
+  height: 85vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1% 5% 1% 5%;
+  background-color: #e4eff5;
+}
+.aboutus-content-container {
+  width: 50vw;
+}
+.aboutus-text {
+  color: #64748b;
+  font-size: 40px;
+  font-family: Roboto;
+}
+.aboutus-para {
+  color: #64748b;
+  font-size: 21px;
+  font-family: Roboto;
+}
+.aboutus-para1 {
+  color: #64748b;
+  font-size: 25px;
+  font-family: Roboto;
+  font-weight: bold;
+}
+.philosophy {
+  color: #f78d40;
+  font-size: 30px;
+  font-weight: bold;
+}

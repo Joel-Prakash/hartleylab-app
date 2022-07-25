@@ -1,0 +1,43 @@
+.nav-bar-welcome {
+  padding: 1% 5% 0% 5%;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+}
+.welcome-main-container {
+  height: 100vh;
+}
+.welcome-container {
+  height: 85vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1% 5% 1% 5%;
+  background-color: #e4eff5;
+}
+.welcome-main-image {
+  height: 350px;
+  width: 400px;
+}
+.welcome-content-container {
+  width: 50vw;
+}
+.welcome-text {
+  color: #64748b;
+  font-size: 40px;
+  font-family: Roboto;
+}
+.welcome-para {
+  color: #64748b;
+  font-size: 21px;
+  font-family: Roboto;
+}
+.title {
+  color: #f56e4c;
+}
+.web {
+  color: #7e93de;
+}
+.mobile {
+  color: #7e93de;
+}
